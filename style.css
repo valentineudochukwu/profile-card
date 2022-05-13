@@ -26,6 +26,7 @@ body{
 }
 
 .hero-section img{
+    border:3px solid white;
     margin-bottom: 30px;
     border-radius: 50px;
     display: block;
